@@ -1,0 +1,16 @@
+CSCI|211|3|Yosef Alayev  
+Chris|Cyril|22314693|Freshman|116|3|2/18/1987|1/28/2011
+John|Doe|23285471|Freshman|36|2|6/17/1990|3/20/2013
+Bernice|Tran|15043327|Freshman|87|3|9/30/1994|8/27/2015
+end_roster|
+CSCI|212|3|Daniel Gutlove  
+Amanda|Lee|24125361|Freshman|13|2|7/16/1996|2/2/2015
+Bob|Parker|13857912|Freshman|47|3|1/25/1993|5/30/2014
+Nick|Sanders|23681423|Freshman|101|2|11/30/1992|6/5/2010
+Arnold|Schwartzenegger|10298412|Freshman|23|3|7/30/1947|5/26/1983
+end_roster|
+Math|152|3|Saeed Zakeri  
+Elizabeth|Nicholson|12236491|Freshman|68|2|4/13/1995|1/28/2012
+Bernice|Tran|15043327|Freshman|87|3|9/30/1994|8/27/2014
+Kimberly|Tran|18254213|Freshman|28|3|4/28/1997|3/3/2015
+end_roster|
